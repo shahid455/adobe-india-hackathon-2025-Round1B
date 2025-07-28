@@ -145,7 +145,7 @@ This provides a complete overview of the **Challenge 1b** multi-collection analy
 
 ---
 
-## 📎 License
-
-MIT © 2025
+### 🧑‍💻 Author
+- Shahidul Hasan
+- Deepta Chakravarty
 
