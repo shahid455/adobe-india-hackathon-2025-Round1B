@@ -1,0 +1,21 @@
+# Ignore Python virtual environments
+venv/
+.env/
+
+# Bytecode and cache
+__pycache__/
+*.py[cod]
+
+# Data/model weights
+*.pkl
+*.pt
+*.bin
+*.h5
+
+# Jupyter and VS Code configs
+.ipynb_checkpoints/
+.vscode/
+
+# OS-specific
+.DS_Store
+Thumbs.db
