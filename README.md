@@ -26,9 +26,8 @@ adobe-hackathon-ai-planner/
 │   │   │   └── challenge1b_output.json
 │   │   └── collection3/
 │   │       └── challenge1b_output.json
-├── travel_planner_extract.py         # Core script
-├── README.md
-└── report.docx                        # Optional: Summary for submission
+├── run.py         # Core script
+├── README.md                       
 ```
 
 ---
